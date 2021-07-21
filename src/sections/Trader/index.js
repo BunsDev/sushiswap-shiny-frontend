@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React, { useEffect } from "react";
 import $ from "jquery";
 import TradingViewWidget, { Themes } from "react-tradingview-widget";

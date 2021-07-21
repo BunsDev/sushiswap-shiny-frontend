@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import useSushi from "../../../services/frontend/hooks/useSushi";
 import { getXSushiSupply } from "../../../services/frontend/sushi/utils";
 

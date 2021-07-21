@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { ChainId, JSBI, Percent, Token, WETH } from "@sushiswap/sdk";
 import { AbstractConnector } from "@sushi-web3-react/abstract-connector";
 

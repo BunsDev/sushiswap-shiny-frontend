@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from "react";
 import { isAddress } from "../../services/vision/utils";
 import logoNotFound from "../../assets/img/logoNotFound.png";

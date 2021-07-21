@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { useCallback, useEffect, useState } from "react";
 import useSushi from "../../../services/frontend/hooks/useSushi";
 import { getTotalSushiStakedInBar } from "../../../services/frontend/sushi/utils";

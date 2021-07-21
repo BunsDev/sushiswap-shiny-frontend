@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React, { useEffect, useMemo } from "react";
 import { Link } from "react-router-dom";
 import { Linker } from "../Linker";

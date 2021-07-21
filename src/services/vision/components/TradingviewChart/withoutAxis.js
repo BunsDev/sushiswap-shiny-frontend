@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React, { useState, useEffect, useRef } from "react";
 import { createChart } from "lightweight-charts";
 import dayjs from "dayjs";

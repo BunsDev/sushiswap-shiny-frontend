@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from "react";
 import SushiLogo from "../../assets/img/logo.png";
 import xSushiLogo from "../../assets/icons/xsushi.svg";

@@ -1,3 +1,4 @@
+/* eslint-disable*/
 import React, { useState, useEffect, useRef, createContext, useContext, useReducer, Suspense } from "react";
 import { Link, Route, Redirect, useParams } from "react-router-dom";
 import WalletRoute from "../../shared/WalletRoute";

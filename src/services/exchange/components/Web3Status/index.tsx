@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { AbstractConnector } from "@sushi-web3-react/abstract-connector";
 import { UnsupportedChainIdError, useWeb3React } from "@sushi-web3-react/core";
 import { darken, lighten } from "polished";

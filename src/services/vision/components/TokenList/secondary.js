@@ -178,7 +178,7 @@ function TopTokenList({ tokens, itemMax = 10 }) {
 
   const ListItem = ({ item, index }) => {
     //console.log("item:", index, item);
-    if (item.id == "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9") {
+    if (item.id === "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9") {
       item = { ...item, name: "Aave Token", symbol: "AAVE" };
     }
     return (

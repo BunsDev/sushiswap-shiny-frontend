@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useState } from "react";
 import { useActiveWeb3React } from "../../../services/exchange/hooks";
-import { getEarned, getMasterChefContract, getFarms } from "../../../services/frontend/sushi/utils";
+import { getEarned, getMasterChefContract } from "../../../services/frontend/sushi/utils";
 import useSushi from "../../../services/frontend/hooks/useSushi";
 import useBlock from "./useBlock";
 //import useBlock from "../../../services/frontend/hooks/useBlock";

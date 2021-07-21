@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React, { useState, useMemo, useEffect } from "react";
 
 import { useActiveWeb3React } from "../../services/exchange/hooks";

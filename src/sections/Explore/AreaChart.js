@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from "react";
-import { createChart, CrosshairMode } from "lightweight-charts";
+import { createChart } from "lightweight-charts";
 import dayjs from "dayjs";
 import { formattedNum } from "../../services/vision/utils";
 import { usePrevious } from "react-use";

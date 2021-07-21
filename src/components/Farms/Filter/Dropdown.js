@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from "react";
 import { useActiveWeb3React } from "../../../services/exchange/hooks";
 import Transition from "../../Transition";

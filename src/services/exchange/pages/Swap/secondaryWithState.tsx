@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { CurrencyAmount, JSBI, Token, Trade } from "@sushiswap/sdk";
 import React, { useCallback, useContext, useEffect, useMemo, useState } from "react";
 import { ArrowDown } from "react-feather";

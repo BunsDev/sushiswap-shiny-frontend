@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from "react";
 
 import Boar from "../assets/emojis/boar.png";

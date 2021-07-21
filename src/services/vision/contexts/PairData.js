@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React, { createContext, useContext, useReducer, useMemo, useCallback, useEffect, useState } from "react";
 
 import { client } from "../apollo/client";

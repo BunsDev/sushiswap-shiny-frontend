@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { Currency, CurrencyAmount, Pair, Token, Trade, ChainId } from "@sushiswap/sdk";
 import flatMap from "lodash.flatmap";
 import { useMemo } from "react";

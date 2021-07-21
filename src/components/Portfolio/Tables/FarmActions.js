@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React, { useCallback, useMemo, useState } from "react";
 import { Button } from "../../Linker";
 import { useActiveWeb3React } from "../../../services/exchange/hooks";

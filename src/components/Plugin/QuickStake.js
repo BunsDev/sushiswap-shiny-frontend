@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React, { useEffect } from "react";
 import { Linker } from "../Linker";
 import { useActiveWeb3React } from "../../services/exchange/hooks";

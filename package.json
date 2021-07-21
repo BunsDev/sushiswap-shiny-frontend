@@ -194,6 +194,7 @@
   },
   "scripts": {
     "analyze": "react-scripts build && source-map-explorer 'build/static/js/*.js'",
+    "lint:fix": "eslint --fix",
     "dev": "BROWSER=none react-scripts start",
     "build": "CI= GENERATE_SOURCEMAP=false react-app-rewired build --scripts-version react-scripts",
     "test": "react-scripts test",
@@ -203,6 +204,7 @@
     "prestart": "npm run build:styles",
     "generate": "graphql-codegen"
   },
+  "eslintIgnore": ["**/*.js", "world.js"],
   "devDependencies": {},
   "browserslist": [
     ">0.2%",
